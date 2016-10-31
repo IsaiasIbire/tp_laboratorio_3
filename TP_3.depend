@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1477768813 source:c:\users\lucas nicolas\desktop\tp_3\main.c
+	"lib.h"
+
+1477765724 c:\users\lucas nicolas\desktop\tp_3\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1477768708 source:c:\users\lucas nicolas\desktop\tp_3\lib.c
+	"lib.h"
+
+1477845668 source:d:\nueva carpeta\tp_3\lib.c
+	"lib.h"
+
+1477844542 d:\nueva carpeta\tp_3\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1477845260 source:d:\nueva carpeta\tp_3\main.c
+	"lib.h"
+
+1477872780 source:c:\users\isaias ibire\desktop\tp_3\main.c
+	"lib.h"
+
+1477869377 c:\users\isaias ibire\desktop\tp_3\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1477871097 source:c:\users\isaias ibire\desktop\tp_3\lib.c
+	"lib.h"
+
